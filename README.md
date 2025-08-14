@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/C5ENCoK' title='Video Walkthrough' width='40px' alt='Video Walkthrough' />
+<img src="https://i.imgur.com/x7yLdnn.gif" width="300" alt="Demo GIF">
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif,
